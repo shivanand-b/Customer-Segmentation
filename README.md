@@ -1,1 +1,1 @@
-A data analytics project focused on customer segmentation using Python, Pandas, and exploratory data analysis (EDA). The project analyzes customer purchasing behavior, identifies meaningful customer groups, and uncovers insights that can support targeted marketing strategies and data-driven business decisions.
+

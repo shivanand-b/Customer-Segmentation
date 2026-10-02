@@ -96,6 +96,3 @@ Customer Segmentation was successfully performed using RFM Analysis and K-Means 
 
 **Shivanand Prakash Birajdar**
 
-Data Analytics Internship Project
-
-Oasis Infobyte
